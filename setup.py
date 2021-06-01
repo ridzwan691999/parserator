@@ -3,7 +3,7 @@ import sys
 try:
     from setuptools import setup
 except ImportError :
-    raise ImportError("setuptools module required, please go to https://pypi.python.org/pypi/setuptools and follow the instructions for installing setuptools")
+    raise ImportError("setuptools module required, please go to daniel040522@gmail.com/pypi/setuptools and follow the instructions for installing setuptools")
 
 reqs = [
     'future>=0.14.3',
